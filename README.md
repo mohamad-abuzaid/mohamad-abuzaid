@@ -21,6 +21,15 @@ Mobile Application Development · Android Development · Kotlin Development · F
 
 ----
 
+<h3 align="left">Software Content Creator:</h3>
+
+- **Youtube:** https://bit.ly/sat7maktab<br>
+- **NewsLetter:** https://bit.ly/techtokin<br>
+- **Medium:** https://bit.ly/mediumpf<br>
+- **Tech Blog:** https://abuzaid.me<br>
+
+---
+
 <h3 align="left">Availability:</h3>
 I am available for full-time or part-time work, depending on the project requirements. Feel free to contact me to discuss your project and requirements.
 
