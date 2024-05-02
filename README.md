@@ -1,32 +1,25 @@
-<h1 align="center">Hi 👋, I'm Mohamad Abuzaid</h1>
+<h1 align="center">Hi 👋,  I'm Mohamad Abuzaid</h1>
 <h3 align="center">Quality-driven Software Engineer driven to improve business and customer operations by effectively overseeing all types and sizes of complex projects. Strategic planner bringing 12+ years of experience in directing software improvements, project plans and documentation. Recognized for assessing operational needs and developing solutions to save costs, improve revenues, and drive customer satisfaction. Resourceful and well-organized with excellent leadership and team building record. Background in testing, evaluating and solving issues in Mobile software development. Specializing in inspections, compliance and team leadership.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamad-abuzaid&label=Profile%20views&color=0e75b6&style=flat" alt="mohamad-abuzaid" /> </p>
 
+----
+
 <h3 align="left">Key skills:</h3>
-<p align="left">
-  Mobile Application Development · Android Development · Kotlin Development · Flutter Development · Software Design Patterns · Leadership and Team Building · Problem-Solving · Technical Documentation<br>
-  <h4 align="left">Kotlin:</h4>
-  RxJava/Kotlin · Coroutines · Koin · Dagger/Hilt<br>
-  <h4 align="left">Android:</h4>
-  Jetpack Compose · Navigation Graph · CameraX · Pagination<br>
-  <h4 align="left">Storage:</h4>
-  Room · Secured Shared Preference<br>
-  <h4 align="left">Network:</h4>
-  Retrofit · GraphQL · REST · Apollo<br>
-  <h4 align="left">Architecture:</h4>
-  MVVM · MVI · Clean Code · SOLID<br>
-  <h4 align="left">Testing:</h4>
-  Unit Testing · JUnit · Mockito<br>
-  <h4 align="left">Cloud:</h4>
-  Google Analytics · Firebase Crashlytics · Firebase Notifications · Firebase database · Firestore · Google Cloud<br>
-  <h4 align="left">CI/CD:</h4>
-  Git · Pipeline · Circle CI · GitHub<br>
-  <h4 align="left">Flutter:</h4>
-  Dart · Bloc · Cubit<br>
-  <h4 align="left">Management:</h4>
-  Jira · Zoom · MS Teams · Google Calendar<br>
-</p>
+
+Mobile Application Development · Android Development · Kotlin Development · Flutter Development · Software Design Patterns · Leadership and Team Building · Problem-Solving · Technical Documentation<br><br>
+**Kotlin:** RxJava/Kotlin · Coroutines · Koin · Dagger/Hilt<br>
+**Android:** Jetpack Compose · Navigation Graph · CameraX · Pagination<br>
+**Storage:** Room · Secured Shared Preference<br>
+**Network:** Retrofit · GraphQL · REST · Apollo<br>
+**Architecture:** MVVM · MVI · Clean Code · SOLID<br>
+**Testing:** Unit Testing · JUnit · Mockito<br>
+**Cloud:** Google Analytics · Firebase Crashlytics · Firebase Notifications · Firebase database · Firestore · Google Cloud<br>
+**CI/CD:** Git · Pipeline · Circle CI · GitHub<br>
+**Flutter:** Dart · Bloc · Cubit<br>
+**Management:** Jira · Zoom · MS Teams · Google Calendar<br>
+
+----
 
 <h3 align="left">Availability:</h3>
 I am available for full-time or part-time work, depending on the project requirements. Feel free to contact me to discuss your project and requirements.
@@ -45,6 +38,8 @@ I am available for full-time or part-time work, depending on the project require
 <a href="https://linkedin.com/in/mohamad-abuzaid-52a20a161/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamad-abuzaid-52a20a161/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/982282/abuzaid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="982282/abuzaid" height="30" width="40" /></a>
 </p>
+
+---
 
 <h3 align="left">Languages and Tools:</h3>
 
