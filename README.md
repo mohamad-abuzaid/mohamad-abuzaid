@@ -39,7 +39,7 @@ I am available for full-time or part-time work, depending on the project require
 
 - 📫 How to reach me **m.abuzaid.ali@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/mohamad-abuzaid-52a20a161/](https://www.linkedin.com/in/mohamad-abuzaid)
+- 📄 Know about my experiences [https://www.linkedin.com/in/mohamad-abuzaid](https://www.linkedin.com/in/mohamad-abuzaid)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
