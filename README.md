@@ -6,25 +6,25 @@
 <h3 align="left">Key skills:</h3>
 <p align="left">
   Mobile Application Development · Android Development · Kotlin Development · Flutter Development · Software Design Patterns · Leadership and Team Building · Problem-Solving · Technical Documentation<br>
-  **Kotlin:**<br>
+  <h4 align="left">Kotlin:</h4>
   RxJava/Kotlin · Coroutines · Koin · Dagger/Hilt<br>
-  **Android:**<br>
+  <h4 align="left">Android:</h4>
   Jetpack Compose · Navigation Graph · CameraX · Pagination<br>
-  **Storage:**<br>
+  <h4 align="left">Storage:</h4>
   Room · Secured Shared Preference<br>
-  **Network:**<br>
+  <h4 align="left">Network:</h4>
   Retrofit · GraphQL · REST · Apollo<br>
-  **Architecture:**<br>
+  <h4 align="left">Architecture:</h4>
   MVVM · MVI · Clean Code · SOLID<br>
-  **Testing:**<br>
+  <h4 align="left">Testing:</h4>
   Unit Testing · JUnit · Mockito<br>
-  **Cloud:**<br>
+  <h4 align="left">Cloud:</h4>
   Google Analytics · Firebase Crashlytics · Firebase Notifications · Firebase database · Firestore · Google Cloud<br>
-  **CI/CD:**<br>
+  <h4 align="left">CI/CD:</h4>
   Git · Pipeline · Circle CI · GitHub<br>
-  **Flutter:**<br>
+  <h4 align="left">Flutter:</h4>
   Dart · Bloc · Cubit<br>
-  **Management:**<br>
+  <h4 align="left">Management:</h4>
   Jira · Zoom · MS Teams · Google Calendar<br>
 </p>
 
