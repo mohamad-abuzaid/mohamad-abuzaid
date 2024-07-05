@@ -8,10 +8,10 @@
 <h3 align="left">Key skills:</h3>
 
 Mobile Application Development · Android Development · Kotlin Development · Flutter Development · Software Design Patterns · Leadership and Team Building · Problem-Solving · Technical Documentation<br><br>
-**Kotlin:** RxJava/Kotlin · Coroutines · Koin · Dagger/Hilt<br>
+**Kotlin:** RxJava/Kotlin · Coroutines · Koin · Dagger/Hilt · Kotlin Multi-platform<br>
 **Android:** Jetpack Compose · Navigation Graph · CameraX · Pagination<br>
 **Storage:** Room · Secured Shared Preference<br>
-**Network:** Retrofit · GraphQL · REST · Apollo<br>
+**Network:** Retrofit · Ktor · GraphQL · REST · Apollo<br>
 **Architecture:** MVVM · MVI · Clean Code · SOLID<br>
 **Testing:** Unit Testing · JUnit · Mockito<br>
 **Cloud:** Google Analytics · Firebase Crashlytics · Firebase Notifications · Firebase database · Firestore · Google Cloud<br>
