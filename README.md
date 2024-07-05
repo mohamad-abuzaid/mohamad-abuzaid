@@ -17,7 +17,7 @@ Mobile Application Development · Android Development · Kotlin Development · F
 **Cloud:** Google Analytics · Firebase Crashlytics · Firebase Notifications · Firebase database · Firestore · Google Cloud<br>
 **CI/CD:** Git · Pipeline · Circle CI · GitHub<br>
 **Flutter:** Dart · Bloc · Cubit<br>
-**Management:** Jira · Zoom · MS Teams · Google Calendar<br>
+**Management:** Jira · Azure Devops · Zoom · MS Teams · Google Calendar<br>
 
 ----
 
