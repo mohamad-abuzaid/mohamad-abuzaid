@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋,  I'm Mohamad Abuzaid</h1>
-<h3 align="center">Quality-driven Software Engineer driven to improve business and customer operations by effectively overseeing all types and sizes of complex projects. Strategic planner bringing 12+ years of experience in directing software improvements, project plans and documentation. Recognized for assessing operational needs and developing solutions to save costs, improve revenues, and drive customer satisfaction. Resourceful and well-organized with excellent leadership and team building record. Background in testing, evaluating and solving issues in Mobile software development. Specializing in inspections, compliance and team leadership.</h3>
+<h3 align="center">Quality-driven Software Engineer driven to improve business and customer operations by effectively overseeing all types and sizes of complex projects. Strategic planner bringing 12+ years of experience in directing software improvements, project plans and documentation. Recognized for assessing operational needs and developing solutions to save costs, improve revenues, and drive customer satisfaction. Resourceful and well-organized with excellent leadership and team building record. Background in testing, evaluating and solving issues in Mobile software development. Specializing in inspections, compliance and team leadership..</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamad-abuzaid&label=Profile%20views&color=0e75b6&style=flat" alt="mohamad-abuzaid" /> </p>
 
@@ -8,10 +8,10 @@
 <h3 align="left">Key skills:</h3>
 
 Mobile Application Development · Android Development · Kotlin Development · Flutter Development · Software Design Patterns · Leadership and Team Building · Problem-Solving · Technical Documentation<br><br>
-**Kotlin:** RxJava/Kotlin · Coroutines · Koin · Dagger/Hilt<br>
+**Kotlin:** RxJava/Kotlin · Coroutines · Koin · Dagger/Hilt · Kotlin Multi-platform<br>
 **Android:** Jetpack Compose · Navigation Graph · CameraX · Pagination<br>
 **Storage:** Room · Secured Shared Preference<br>
-**Network:** Retrofit · GraphQL · REST · Apollo<br>
+**Network:** Retrofit · Ktor · GraphQL · REST · Apollo<br>
 **Architecture:** MVVM · MVI · Clean Code · SOLID<br>
 **Testing:** Unit Testing · JUnit · Mockito<br>
 **Cloud:** Google Analytics · Firebase Crashlytics · Firebase Notifications · Firebase database · Firestore · Google Cloud<br>
