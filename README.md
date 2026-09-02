@@ -1,66 +1,68 @@
-<h1 align="center">Hi 👋,  I'm Mohamad Abuzaid</h1>
-<h3 align="center">Quality-driven Software Engineer driven to improve business and customer operations by effectively overseeing all types and sizes of complex projects. Strategic planner bringing 12+ years of experience in directing software improvements, project plans and documentation. Recognized for assessing operational needs and developing solutions to save costs, improve revenues, and drive customer satisfaction. Resourceful and well-organized with excellent leadership and team building record. Background in testing, evaluating and solving issues in Mobile software development. Specializing in inspections, compliance and team leadership..</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamad-abuzaid&label=Profile%20views&color=0e75b6&style=flat" alt="mohamad-abuzaid" /> </p>
+# Mohamad Abuzaid
 
-----
+### Senior Mobile Engineer & Technical Lead
 
-<h3 align="left">Key skills:</h3>
+**Android · Kotlin · Kotlin Multiplatform**
 
-Mobile Application Development · Android Development · Kotlin Development · Flutter Development · Software Design Patterns · Leadership and Team Building · Problem-Solving · Technical Documentation<br><br>
-**Kotlin:** RxJava/Kotlin · Coroutines · Koin · Dagger/Hilt · Kotlin Multi-platform<br>
-**Android:** Jetpack Compose · Navigation Graph · CameraX · Pagination<br>
-**Storage:** Room · Secured Shared Preference<br>
-**Network:** Retrofit · Ktor · GraphQL · REST · Apollo<br>
-**Architecture:** MVVM · MVI · Clean Code · SOLID<br>
-**Testing:** Unit Testing · JUnit · Mockito<br>
-**Cloud:** Google Analytics · Firebase Crashlytics · Firebase Notifications · Firebase database · Firestore · Google Cloud<br>
-**CI/CD:** Git · Pipeline · Circle CI · GitHub<br>
-**Flutter:** Dart · Bloc · Cubit<br>
-**Management:** Jira · Azure Devops · Zoom · MS Teams · Google Calendar<br>
+[Portfolio](https://abuzaid.me/profile/) · [LinkedIn](https://www.linkedin.com/in/mohamad-abuzaid/) · [TechTok Newsletter](https://www.linkedin.com/newsletters/shikartoon-7012493229686206464/) · [Email](mailto:m.abuzaid.ali@gmail.com)
 
-----
+</div>
 
-<h3 align="left">Software Content Creator:</h3>
+I build mobile products and help engineering teams turn complex requirements into maintainable software. For more than 15 years, I have worked across super apps, government and education platforms, retail systems, hospitality technology, restaurant products, and social platforms.
 
-- **Youtube:** https://bit.ly/sat7maktab<br>
-- **NewsLetter:** https://bit.ly/techtokin<br>
-- **Medium:** https://bit.ly/mediumpf<br>
-- **Tech Blog:** https://abuzaid.me<br>
+My work sits at the intersection of **hands-on mobile engineering**, **software architecture**, and **technical leadership**. I currently focus on modern Android, Kotlin Multiplatform, offline-first systems, engineering quality, and practical AI-assisted development workflows.
 
----
+## What I bring
 
-<h3 align="left">Availability:</h3>
-I am available for full-time or part-time work, depending on the project requirements. Feel free to contact me to discuss your project and requirements.
+- **15+ years in software engineering**, from Java and Android foundations to Kotlin, Jetpack Compose, Flutter, and Kotlin Multiplatform.
+- **Technical leadership** across senior mobile squads and cross-functional product teams, including planning, architecture decisions, mentoring, and delivery.
+- **Production perspective** shaped by large multi-module applications, distributed teams, client-facing work, and products serving different industries and markets.
+- **A quality-first approach** that treats testing, documentation, observability, and maintainability as part of delivery—not work to postpone.
 
-- 👨‍💻 All of my projects are available at [https://github.com/mohamad-abuzaid](https://github.com/mohamad-abuzaid)
+## Engineering focus
 
-- 💬 Ask me about **Android, Kotlin, Flutter**
+| Area | What I work on |
+| --- | --- |
+| **Android engineering** | Kotlin, Jetpack Compose, Coroutines and Flow, modular applications, MVI/MVVM |
+| **Kotlin Multiplatform** | Shared domain and data layers, Compose Multiplatform, platform integration, Ktor and Room |
+| **Architecture** | Clean boundaries, scalable modules, offline-first data, API integration, dependency injection |
+| **Quality and reliability** | Automated testing, debugging, release confidence, performance and production stability |
+| **Technical leadership** | Mentoring, planning, architectural facilitation, stakeholder communication and cross-team delivery |
 
-- 📫 How to reach me **m.abuzaid.ali@gmail.com**
+## Selected production experience
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/mohamad-abuzaid](https://www.linkedin.com/in/mohamad-abuzaid)
+- **Super-app engineering:** Android feature delivery, stability work, and integration between shared services and product squads in a multi-module super app.
+- **Government and education platforms:** Kotlin and Flutter technical leadership, plus Android delivery within a distributed 10-developer team.
+- **Cross-functional product delivery:** Engineering and leadership across retail, restaurant management, social platforms, and interactive robot experiences.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mmmabuzaid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mmmabuzaid" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mohamad-abuzaid-52a20a161/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamad-abuzaid-52a20a161/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/982282/abuzaid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="982282/abuzaid" height="30" width="40" /></a>
-</p>
+My public [portfolio](https://abuzaid.me/profile/) contains selected project and career details. Much of my production work is proprietary, so I use the repositories below to make my engineering approach visible through public architecture labs.
 
----
+## Open-source engineering labs
 
-<h3 align="left">Languages and Tools:</h3>
+| Project | What it demonstrates |
+| --- | --- |
+| [**ComposeMoviesApp**](https://github.com/mohamad-abuzaid/ComposeMoviesApp) | A multi-module Android application using Jetpack Compose, MVI, Room, Ktor, Koin, Coroutines and Flow |
+| [**KMP-MoviesApp**](https://github.com/mohamad-abuzaid/KMP-MoviesApp) | Kotlin Multiplatform and Compose Multiplatform across Android, iOS, desktop and web, with shared architecture and data access |
 
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
-</p>
+## Recent technical writing
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamad-abuzaid&" alt="mohamad-abuzaid" /></p>
+- [**Offline-First Kotlin Multiplatform with Room, Ktor, and Shared ViewModels**](https://abuzaid.me/posts/offline-first-kotlin-multiplatform-room-ktor) — shared persistence, synchronization, and UI-state boundaries across Android and iOS.
+- [**MCP Went Stateless: What Changes for Agent Tooling**](https://abuzaid.me/posts/mcp-2026-stateless-agent-tooling) — state handles, routing, caching, Tasks, and authorization in modern MCP systems.
+- [**Claude Code Meets Android CLI: Build, Run, and Test**](https://abuzaid.me/posts/claude-code-android-cli-agent-workflow) — a practical, verifiable workflow for AI-assisted Android engineering.
 
+I publish more Android, Kotlin, architecture, testing, and engineering-workflow articles on [Abuzaid Space](https://abuzaid.me/) and in the [TechTok newsletter](https://www.linkedin.com/newsletters/shikartoon-7012493229686206464/).
+
+## How I work
+
+- Choose architecture for the product, team, and constraints—not for fashion.
+- Make technical decisions explicit, including their trade-offs and operational consequences.
+- Keep delivery close to evidence: working builds, tests, observable behavior, and clear documentation.
+- Help teams improve the system while continuing to ship useful product increments.
+
+## Let’s connect
+
+I enjoy conversations about mobile architecture, Kotlin Multiplatform, technical leadership, and engineering quality.
+
+[**Portfolio**](https://abuzaid.me/profile/) · [**LinkedIn**](https://www.linkedin.com/in/mohamad-abuzaid/) · [**TechTok**](https://www.linkedin.com/newsletters/shikartoon-7012493229686206464/) · [**Medium**](https://medium.com/@m.abuzaid.ali) · [**YouTube**](https://www.youtube.com/channel/UCR3cGE4qYuaEJOB9vqFS3cg) · [**Email**](mailto:m.abuzaid.ali@gmail.com)
